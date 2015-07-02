@@ -1,4 +1,4 @@
-=== WordPress Custom CSS Classes ===
+=== Custom CSS classes for images ===
 Contributors: nivijah
 Tags: media, images, classes, add class, add classes, media uploader class, featured image class, editor class, nivijah, additional class for images
 Requires at least: 3.0.1
